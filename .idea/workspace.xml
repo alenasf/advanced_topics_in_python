@@ -10,20 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requests_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api_example.py">
+        <entry file="file://$PROJECT_DIR$/database/db_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="421">
+              <caret line="40" lean-forward="true" selection-start-line="36" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -47,14 +38,15 @@
         <option value="$PROJECT_DIR$/json_example.py" />
         <option value="$PROJECT_DIR$/requests_example.py" />
         <option value="$PROJECT_DIR$/api_example.py" />
+        <option value="$PROJECT_DIR$/database/db_example.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="47" />
-    <option name="y" value="47" />
-    <option name="width" value="1188" />
-    <option name="height" value="709" />
+    <option name="x" value="16" />
+    <option name="y" value="37" />
+    <option name="width" value="1241" />
+    <option name="height" value="757" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -68,6 +60,11 @@
             <path>
               <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.api_example">
+  <component name="RunManager" selected="Python.db_example">
     <configuration name="api_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced_topics_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,6 +103,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advanced_topics_in_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/db_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,6 +176,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.db_example" />
         <item itemvalue="Python.api_example" />
         <item itemvalue="Python.json_example" />
         <item itemvalue="Python.requests_example" />
@@ -178,15 +197,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="47" width="1188" height="709" extended-state="0" />
-    <editor active="true" />
+    <frame x="16" y="37" width="1241" height="757" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24935733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23852459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47974068" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13533835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,6 +260,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/db_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="40" lean-forward="true" selection-start-line="36" selection-end-line="40" />
         </state>
       </provider>
     </entry>
