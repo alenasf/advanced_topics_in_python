@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87651347-77de-4245-bb9f-9b5cf2e1e836" name="Default Changelist" comment="" />
+    <list default="true" id="87651347-77de-4245-bb9f-9b5cf2e1e836" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/unittesting/example.py">
+        <entry file="file://$PROJECT_DIR$/csv/example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="235">
+              <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -44,14 +43,15 @@
         <option value="$PROJECT_DIR$/database/db_example.py" />
         <option value="$PROJECT_DIR$/tutorial4/example.py" />
         <option value="$PROJECT_DIR$/unittesting/example.py" />
+        <option value="$PROJECT_DIR$/csv/example.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="16" />
-    <option name="y" value="37" />
+    <option name="y" value="23" />
     <option name="width" value="1241" />
-    <option name="height" value="757" />
+    <option name="height" value="736" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -69,17 +69,7 @@
             <path>
               <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
-              <item name="tutorial4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
-              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+              <item name="csv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in example.py">
+  <component name="RunManager" selected="Python.example (1)">
     <configuration name="api_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced_topics_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +137,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="example (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advanced_topics_in_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/csv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced_topics_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,27 +171,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tutorial4/example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="json_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="advanced_topics_in_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example (1)" />
         <item itemvalue="Python tests.Unittests in example.py" />
         <item itemvalue="Python.example" />
         <item itemvalue="Python.db_example" />
         <item itemvalue="Python.api_example" />
-        <item itemvalue="Python.json_example" />
       </list>
     </recent_temporary>
   </component>
@@ -227,9 +217,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_example_py - 2020.06.28 at 01h 53m 22s.xml">
-      <configuration name="Unittests in example.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_example_py - 2020.06.28 at 01h 54m 28s.xml">
       <configuration name="Unittests in example.py" configurationId="tests" />
     </history-entry>
@@ -257,17 +244,20 @@
     <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 08m 44s.xml">
       <configuration name="Unittests in example.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 12m 48s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="37" width="1241" height="757" extended-state="0" />
+    <frame x="16" y="23" width="1241" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23852459" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23852459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39906833" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,11 +338,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unittesting/example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        <state relative-caret-position="675">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
         </state>
       </provider>
     </entry>
