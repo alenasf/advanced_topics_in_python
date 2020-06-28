@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87651347-77de-4245-bb9f-9b5cf2e1e836" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/database/db_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/database/db_example.py" afterDir="false" />
-    </list>
+    <list default="true" id="87651347-77de-4245-bb9f-9b5cf2e1e836" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +9,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unittesting/example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +43,7 @@
         <option value="$PROJECT_DIR$/api_example.py" />
         <option value="$PROJECT_DIR$/database/db_example.py" />
         <option value="$PROJECT_DIR$/tutorial4/example.py" />
+        <option value="$PROJECT_DIR$/unittesting/example.py" />
       </list>
     </option>
   </component>
@@ -64,6 +76,11 @@
               <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
               <item name="tutorial4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="advanced_topics_in_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="advanced_topics_in_python" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -87,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example">
+  <component name="RunManager" selected="Python tests.Unittests in example.py">
     <configuration name="api_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="advanced_topics_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,34 +189,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="requests_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in example.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="advanced_topics_in_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittesting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittesting/example.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in example.py" />
         <item itemvalue="Python.example" />
         <item itemvalue="Python.db_example" />
         <item itemvalue="Python.api_example" />
         <item itemvalue="Python.json_example" />
-        <item itemvalue="Python.requests_example" />
       </list>
     </recent_temporary>
   </component>
@@ -216,15 +226,48 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 01h 53m 22s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 01h 54m 28s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 03m 52s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 04m 11s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 04m 25s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 06m 50s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 07m 23s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 08m 03s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 08m 28s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_example_py - 2020.06.28 at 02h 08m 44s.xml">
+      <configuration name="Unittests in example.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="16" y="37" width="1241" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23852459" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23852459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -283,22 +326,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tutorial4/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="77" column="19" lean-forward="true" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/db_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="95" selection-start-line="95" selection-end-line="97" selection-end-column="19" />
           <folding>
             <marker date="1593330990922" expanded="true" signature="1018:1257" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial4/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="70" column="25" lean-forward="true" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittesting/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
